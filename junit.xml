@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="3.926">
+  <testsuite name="Banking Transactions &lt;App/&gt;" errors="0" failures="0" skipped="0" timestamp="2021-10-21T22:43:15" time="2.218" tests="5">
+    <testcase classname="Banking Transactions &lt;App/&gt; check default/initial state of the application" name="Banking Transactions &lt;App/&gt; check default/initial state of the application" time="0.051">
+    </testcase>
+    <testcase classname="Banking Transactions &lt;App/&gt; check filter by date" name="Banking Transactions &lt;App/&gt; check filter by date" time="0.017">
+    </testcase>
+    <testcase classname="Banking Transactions &lt;App/&gt; check sorting by amount" name="Banking Transactions &lt;App/&gt; check sorting by amount" time="0.015">
+    </testcase>
+    <testcase classname="Banking Transactions &lt;App/&gt; check filter by date and sorting by amount" name="Banking Transactions &lt;App/&gt; check filter by date and sorting by amount" time="0.015">
+    </testcase>
+    <testcase classname="Banking Transactions &lt;App/&gt; check number of rows rendered" name="Banking Transactions &lt;App/&gt; check number of rows rendered" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>

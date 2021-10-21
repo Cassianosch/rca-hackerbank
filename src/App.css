@@ -1,0 +1,14 @@
+.table {
+    max-width: 1000px;
+}
+
+.table .table-header#date,
+.table .table-header #amount {
+    cursor: pointer;
+    transition: .18s all ease;
+}
+
+.table .table-header#date:hover,
+.table .table-header #amount:hover {
+    color: rgb(60, 91, 192);
+}
